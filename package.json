@@ -1,0 +1,25 @@
+{
+  "name": "lyrics-monarch-api",
+  "version": "1.0.0",
+  "description": "Fetches Lyrics Of a Song using Get Parameters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrajjwalDatir/lyrics-monarch-api.git"
+  },
+  "keywords": [
+    "lyrics-api",
+    "lyrics",
+    "song-lyrics",
+    "lyrics-using-words"
+  ],
+  "author": "prajjwaldatir",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/PrajjwalDatir/lyrics-monarch-api/issues"
+  },
+  "homepage": "https://github.com/PrajjwalDatir/lyrics-monarch-api#readme"
+}
