@@ -4,7 +4,7 @@
   "description": "Fetches Lyrics Of a Song using Get Parameters.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm install lyrics-monarch-api"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/PrajjwalDatir/lyrics-monarch-api/issues"
   },
-  "homepage": "https://github.com/PrajjwalDatir/lyrics-monarch-api#readme"
+  "homepage": "https://github.com/PrajjwalDatir/lyrics-monarch-api#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
