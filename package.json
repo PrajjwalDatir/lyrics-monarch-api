@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "Fetches Lyrics Of a Song using Get Parameters.",
   "main": "index.js",
+  "files":["src/**/*", "example/**/*"],
   "scripts": {
     "test": "npm install lyrics-monarch-api"
   },
